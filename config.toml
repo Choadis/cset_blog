@@ -1,4 +1,4 @@
-baseURL = "http://smdahlgren.csetweb.com/"
+baseURL = "https://smdahlgren.csetweb.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "Hyde"
